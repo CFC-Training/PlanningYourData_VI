@@ -1,0 +1,62 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "6N6beTt3Srb",
+  "title": "cuộc trò chuyện với Oscar và Ana",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Cảnh không có tiêu đề"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6BtvYc2JSNx",
+      "title": "Oscar 1",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5wc0Mt4W4Lp",
+      "title": "Oscar 2",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5sqv7b3S03b",
+      "title": "Oscar 3",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5w4z49c2w4q",
+      "title": "Rồi",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6qu0aXe1WnL",
+      "title": "Chưa từng",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6gtOfTW7deJ",
+      "title": "Ana",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5qGPG2GbHcq",
+      "title": "Có, tôi muốn xem",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5eCWPrVljas",
+      "title": "Không, cảm ơn",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
